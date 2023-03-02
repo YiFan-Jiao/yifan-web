@@ -1,3 +1,3 @@
 ### My new web
 
-You can click [here](https://github.com/mrspecht/fetch-api) to vist the web.
+You can click [here](https://yifan-jiao.github.io/yifan-web/) to vist the web.
